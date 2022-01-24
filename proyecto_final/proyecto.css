@@ -1,0 +1,132 @@
+@import url(https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap);
+html {
+    background-color: rgb(90, 85, 85);
+    background-position: center;
+}
+body{
+    width: 1395px;
+    height: 710px;
+    margin: auto;
+}
+
+header{    
+    width: 465px;
+    height: 100px;
+    margin-left: 465px;
+}
+header > h1 {
+    text-align: center;
+    font-family: 'merriweather', serif;
+    font-size: 25px;
+    color: whitesmoke;
+    text-shadow: rgb(255, 149, 149) 0px 3px 7px;
+    background-image: url(https://avatars.githubusercontent.com/u/23482095?v=4);
+    background-position: left;
+    background-size: 15%;
+    background-repeat: no-repeat;
+    background-color: rgb(184, 184, 184);
+    padding: 0 10%;
+    outline: none;
+    text-decoration: none;
+}
+nav{
+    margin-top: -25px;
+    margin-left: 350px;
+    border-color: black;
+    outline: solid black;
+    width: 700px;
+    background-color:rgb(184, 184, 184);
+}
+a { 
+    padding-left: 100px;
+    font-size: 20px;
+    outline: none;
+    text-decoration: none;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'merriweather', serif;
+}
+a:link{
+    color: crimson;
+    text-decoration: none;
+}
+a:visited{
+    color: purple;
+    text-decoration: none;
+}
+a:hover{
+    color: royalblue;
+    text-decoration: white;
+}
+p{
+    font-size: 20px;
+    color: whitesmoke;
+    font-family: 'merriweather', serif;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    margin-top: 15px;
+}
+div{
+    width: 1200px;
+    height: 540px;
+    background-color: rgb(184, 184, 184);
+    font-family: 'merriweather', serif;
+    font-size: 20px;
+    border-style: solid;
+    text-align: justify;
+    margin: auto;
+    border-radius: 20px;    
+}
+select{
+    background-color: rgb(255, 149, 149);
+    width: 250px;
+    height: 20px;
+    margin-left: 450px;
+    margin-top: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+section > img {
+    width: 200px;
+    height: 200px;
+    margin-top: 60px;
+    margin-left: 90px;
+    border-radius: 10px;
+}
+ul {
+    vertical-align: top;
+    display: inline-block;
+}
+ul > #nombre{
+    font-size: 30px;
+    margin-left: 110px;
+    background-color: rgb(237, 255, 173);
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    outline: thick solid black;
+    border-radius: 13px;
+    color: black;
+}
+div > section > ul > ul{
+    background-color: rgb(184, 184, 184);
+    width: 690px;
+    
+    margin-top: 20px;
+    text-align: justify;
+    border-radius: 10px;
+    outline: thick solid black;
+}
+ul > ul > #descripción {
+    padding: 0%;
+    margin-bottom: 20px;
+    font-family: 'merriweather', serif;
+    display: inline-block;
+    font-size: 20px;
+}
+ul > ul > section > p{
+    font-family: 'merriweather', serif;
+    display: inline;
+    margin-left: 90px;
+}

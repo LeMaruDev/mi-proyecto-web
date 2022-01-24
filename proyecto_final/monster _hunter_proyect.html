@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="proyecto.css">
+    <title>Armas de Monster hunter</title>
+</head>
+<body>
+    <header>
+        <h1>Guía de armas de Monster Hunter World</h1>
+        <h6 hidden>hecho por Asis Matos Ix</h6>
+    </header>
+    <nav>
+        <a href="https://github.com/LeMaruDev/mi-proyecto-web">repositorio</a>
+        <a href="">portafolio</a>
+        <a href="">sobre mi</a>
+    </nav>
+    <p>mi proyecto consiste en dar una pequeña descripión de cada uno de los 14 tipos de armas que existen en el juego</p>
+    <div>
+        <select id="buscador" onchange="buscar()">
+            <option value="0"> *nombre*        </option>
+            <option value="1"> espada y escudo </option>
+            <option value="2"> espadas dobles  </option>
+            <option value="3"> espada larga    </option>
+            <option value="4"> martillo        </option>
+            <option value="5"> cornamusa       </option>
+            <option value="6"> lanza           </option>
+            <option value="7"> lanza-pistola   </option>
+            <option value="8"> hacha-espada    </option>
+            <option value="9"> hacha cargada   </option>
+            <option value="10"> glaive insecto </option>
+            <option value="11"> arco            </option>
+            <option value="12"> ballesta ligera </option>
+            <option value="13"> ballesta pesada </option>
+            <option value="14"> gran espada     </option>
+        </select>
+        <section>
+    <img id="icon" src="https://avatars.githubusercontent.com/u/23482095?v=4" title="">
+            <ul>
+                <p id="nombre">*nombre*</p>
+                <ul>
+                    <p id="descripción">
+                    mi proyecto usa un selector para cambiar los elementos de la pagina principal para adaptarce a la informacion de cada elemento de la seccion "select" ;)
+                    </p>
+                    <section>
+                        <p id="rol">rol:</p>
+
+                        <p id="dificultad">dificultad:</p>
+                    </section>
+                </ul>
+            </ul>
+        </section>
+    </div>
+    <script type="text/javascript" src="proyecto.js"></script>
+    <script>
+        buscar();
+    </script>
+</body>
+</html>
