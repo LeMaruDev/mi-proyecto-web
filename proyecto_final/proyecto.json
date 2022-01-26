@@ -9,7 +9,7 @@
             "descripción":"mi proyecto usa un selector para cambiar los elementos de la pagina principal para adaptarce a la informacion de cada elemento ;)",
             "rol":"---",
             "dificultad":"---",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/comision.png"
         },
         {
             "id":1,
@@ -17,7 +17,7 @@
             "descripción":"Espada y Escudo: La Espada y Escudo es bastante sencillo, pero también permite una utilidad básica para todos los cazadores. Es fácil de usar y tiene una rueda de entrenamiento en forma de escudo donde tienes más espacio para cometer errores en comparación con otras armas. Incluso el juego en sí dice que la Espada y Escudo es un arma para principiantes. Es la unica arma que permite usar consumibles mientra está desenfundada.",
             "rol":"Sanador",
             "dificultad":"baja",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/SNS_icon.jpg"
         },
         {
             "id":2,
@@ -25,7 +25,7 @@
             "descripción":"Espadas Dobles: Las Espadas Dobles son el polo opuesto de la Gran Espada. Si bien ese favorece ciertos golpes significativos, las Espadas Dobles tienen que ver con el desgaste. Tiene los ataques más rápidos de todas las armas del juego, pero el número más bajo de daño por ataque. Sin embargo, no se deje engañar; una vez que todos se suman, pronto sabrá por qué las Espadas Dobles son perfectos para los jugadores de DPS.",
             "rol":"ADC (elemental)",
             "dificultad":"baja",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/DB_icon.jpg"
         },
         {
             "id":3,
@@ -33,7 +33,7 @@
             "descripción":"espada larga: ¿Recuerdas cuando mencionamos que algunas armas son básicamente el ''modo fácil'' de Monster Hunter World? Estamos hablando de la Espada Larga, también conocido como Weebstick (es mejor si no profundizas en el nombre). Sus combos de ataque son tan manejables como los de las Espadas Dobles y solo un poco más lentos, pero aún tiene un daño y un alcance considerables, suficiente para speedruns y peleas de un minuto contra los monstruos mas dificiles en solitario si tus combos son correctos.",
             "rol":"sostenido",
             "dificultad":"muy baja",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/LS_icon.jpg"
         },
         {
             "id":4,
@@ -41,7 +41,7 @@
             "descripción":"Martillo: Como su nombre lo indica, el Martillo es un arma sencilla e incluso contundente (en muchos sentidos). Entonces, ¿por qué los novatos deberían evitarlo? Simplemente porque elegir el Martillo como arma te encierra en un rol de clase específico, uno que implica estar siempre frente a la cabeza del monstruo, su parte del cuerpo más peligrosa. Dado que el Martillo es un arma contundente, es ineficaz contra otras partes del cuerpo, como la cola o las alas (aunque aún puedes atacarlas pero con menos daño).",
             "rol":"Controlador",
             "dificultad":"media",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/Hammer_icon.jpg"
         },
         {
             "id":5,
@@ -49,7 +49,7 @@
             "descripción":"Cornamusa: La Cornamusa es una de las mejores armas de apoyo en el juego que también puede funcionar como distribuidor de daños para otros. También es una de las armas más impopulares del juego, presumiblemente debido a que no tiene el mismo atractivo que otras armas más directas. Si la Espada Larga o la Gran Espada son los atletas, entonces la Cornamusa es el que está en las gradas.",
             "rol":"apoyo",
             "dificultad":"muy alta",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/HH_icon.jpg"
         },
         {
             "id":6,
@@ -57,7 +57,7 @@
             "descripción":"Lanza: Piense en la Lanza como la Espada y  scudo, pero menos práctico y más resistente. Es adecuado para los jugadores a los que les encanta esconderse detrás de sus escudos y pinchar al monstruo para que se someta en lugar de depender de esquivar para sobrevivir. En ese sentido, los usuarios de Lance son los tanques de Monster Hunter World, ya que pueden sobrevivir a algunos de los ataques más duros.",
             "rol":"tanque",
             "dificultad":"media",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/Lance_icon.jpg"
         },
         {
             "id":7,
@@ -65,7 +65,7 @@
             "descripción":"Lanza-Pistola: La Lanza-Pistola es bastante simple cuando se trata del juego principal. Da a los jugadores dos opciones: ¿quieren bombardear a algunos monstruos hasta matarlos? ¿O quieren pincharlos como lo hacen con otras armas cuerpo a cuerpo? Cualquiera de las opciones es viable y fácil de realizar en el juego. Por otra parte, la mejor manera de infligir daño con una pistola es confiar en el método anterior o en los proyectiles.",
             "rol":"tanque/sostenido",
             "dificultad":"media",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/GL_icon.jpg"
         },
         {
             "id":8,
@@ -73,7 +73,7 @@
             "descripción":"Hacha-Espada: Piense en el Hacha-Espada como una versión más fácil del arma más compleja del juego (Hacha Cargada). El estilo de juego que otorga es bastante sencillo. Los jugadores solo tienen que preocuparse por atacar al monstruo. Los conjuntos de movimientos del arma también son pocos y lo suficientemente fáciles de memorizar, ya sea en modo espada o hacha.",
             "rol":"ADC",
             "dificultad":"Baja",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/SA_icon.jpg"
         },
         {
             "id":9,
@@ -81,7 +81,7 @@
             "descripción":"Hacha Cargada: Pregunte a algunos de los jugadores más duros de Monster Hunter qué arma causa el mayor daño en el menor tiempo posible y algunos probablemente responderán: el Hacha Cargada. Eso no significa que debas recogerlo de inmediato. El Hacha Cargada es el arma cuerpo a cuerpo más compleja en Monster Hunter World y requiere una cantidad confusa de microgestión y memorización... durante el fragor del combate.",
             "rol":"Daño Explosivo",
             "dificultad":"Alta",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/CB_icon.jpg"
         },
         {
             "id":10,
@@ -89,7 +89,7 @@
             "descripción":"Glaive Insecto: El Glaive Insecto puede parecer un arma inicial agradable y llamativa, pero no se deje engañar. Muchos novatos han cometido el error de elegir y apegarse al Glaive Insecto solo para convertirse en un cazador de daño por segundo (DPS) insatisfactorio que en su mayoría solo realiza maniobras de 'helicóptero' en las peleas y realmente no hace ningún daño sustancial.Eso es porque la fuerza del Glaive Insecto no radica en sus ataques o movimientos aéreos, sino en cómo manejas el 'Kinsecto'. Es el gran escarabajo que envías a diferentes partes del monstruo para extraer sus esencias. Diferentes partes del cuerpo producen diferentes esencias que pueden proporcionar diferentes beneficios. Es mucha microgestión para un arma cuerpo a cuerpo y muchas cosas podrían salir mal en las mini-escapadas de tu Kinsecto que requieren mucha práctica. Solo elige otras armas cuerpo a cuerpo si eres nuevo y quieres divertirte mientras eres competitivo.",
             "rol":"Controlador",
             "dificultad":"Alta",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/IG_icon.jpg"
         },
         {
             "id":11,
@@ -97,7 +97,7 @@
             "descripción":"Arco: El Arco, en marcado contraste con las Ballestas de Monster Hunter World, es una de las armas menos estresantes que puedes usar en el juego. A diferencia de sus contrapartes basadas en armas de fuego, la munición del Arco es funcionalmente ilimitada. Sin embargo, aún puedes tener mucha variedad de munición con el Arco, gracias a los 'viales'. Además, serás más móvil que otros cazadores a distancia.",
             "rol":"Cañon de papel",
             "dificultad":"baja",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/Bow_icon.jpg"
         },
         {
             "id":12,
@@ -105,7 +105,7 @@
             "descripción":"Ballesta Ligera: La Ballesta Ligera puede parecer una buena alternativa a la Ballesta Pesada, ya que proporciona más movilidad, pero también sufre el mismo problema de principiante: la economía de munición. Todo es un acaparamiento de recursos en el que los jugadores deben trabajar arduamente para garantizar su suministro de munición tanto dentro como fuera de las cacerías tanto como lo necesitan para prepararse para la caza de monstruos.",
             "rol":"Daño explosivo",
             "dificultad":"media",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/LBG_icon.jpg"
         },
         {
             "id":13,
@@ -113,7 +113,7 @@
             "descripción":"ballesta Pesada: Según la munición o el estilo de juego que desees, la Ballesta pesada puede ser una ametralladora, un cañón o un rifle de francotirador. Lo que lo hace tedioso para los nuevos jugadores es su dependencia de diferentes tipos y niveles de munición. La economía de munición de las ballestas a menudo se interpone en el camino de la pura diversión de los principiantes. Sin mencionar que la Ballesta Pesada matará no solo al monstruo sino también a tu movilidad y puede hacer que el juego se sienta más lento de lo habitual.",
             "rol":"Daño explosivo",
             "dificultad":"media",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/HBG_icon.jpg"
         },
         {
             "id":14,
@@ -121,7 +121,7 @@
             "descripción":"Gran Espada: Como tal, necesitas toneladas de paciencia cuando usas la Gran Espada. Tus ataques tardan mucho en acumularse y golpear, lo que significa que muchas cosas pueden salir mal, especialmente cuando el monstruo decide interrumpir tus ataques. Como jugador de Gran Espada, debes estudiar cuidadosamente los movimientos y el comportamiento del monstruo para conocer la ventana perfecta para un ataque. Sin embargo, cuando tu golpe se conecta, no hay una sensación de satisfacción más importante que cualquier otra arma. Aquí no hay nada más que un gran daño, pero tendrás que trabajar duro para conseguirlo.",
             "rol":"Daño explosivo",
             "dificultad":"dificil",
-            "icon":""
+            "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/GS_icon.jpg"
         }
     ]
 }
