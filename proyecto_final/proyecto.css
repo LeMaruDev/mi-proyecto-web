@@ -130,3 +130,586 @@ ul > ul > section > p{
     display: inline;
     margin-left: 90px;
 }
+@media (max-width:640px){
+
+    html{
+            background-image: url(https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/first_fleet.png);
+            background-size: cover;
+    }
+        
+    body{    
+            background-color: transparent;
+            margin: auto;
+            width: 320px;
+            height: 480px;
+    }
+        
+    header{        
+            width: 300px;
+            height: 40px;
+            font-size: 15px;
+            margin-left: 10px;
+    }
+        
+    header > h1{
+            text-align: center;
+            font-family: 'merriweather', serif;
+            font-size: 25px;
+            color: whitesmoke;  
+            outline: none;
+            text-decoration: none;
+    }
+            
+    nav{
+    
+            margin:auto ;
+            outline: solid black;
+            width: 155px;
+            height: 15px;
+            margin-bottom: 5px;
+            border-radius: 5px;         
+    }
+            
+    a { 
+            padding: 6px 3.9px 0 3.9px;
+            font-size: 10px;
+            color: black;
+    }
+            
+    p {
+        padding-top: 5px;
+        font-size: 9px;
+        color: white;
+        text-align: justify;
+        width: 90%;
+        margin: auto;
+    }
+       
+    div{    
+            width: 300px;
+            height: 330px;
+            font-size: 10px; 
+            margin-top: 20px;       
+    }
+        
+    select {    
+            width: 200px;
+            height: 15px;
+            margin-left: 60px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            border-radius: 5px;
+    }
+    
+    div > section{    
+            width: 280px;
+            height: 280px;
+            margin-top: 10px;
+            margin-left: 10px;
+            border-radius: 20px;
+            
+            outline: 3px dashed #5f5b6b;   
+    }     
+        
+    section > img{    
+            width: 80px;
+            height: 80px;
+            margin-top: 10px;
+            margin-left: 100px;
+            border-radius: 5px;
+    }
+        
+    div > section > ul > p{    
+            font-size: 15px;
+            margin-left: 25px;
+            margin-top: 0px;
+            width: 150px;
+            height: 20px;
+            border-radius: 5px;
+    }
+        
+    div > section > ul > ul{
+            margin-top: 15px;
+            width: 210px;
+            height: 130px;
+            margin-left: -25px;
+            border-radius: 5px;
+            font-size: 10px;
+            background-color: rgb(184, 184, 184);
+    }
+    
+    ul > ul > p{    
+            text-align: justify;
+            background-color: transparent;
+            outline: none;
+            margin-left: -40px;
+            font-size: 10px;
+            width: 240px;
+            padding: 2% 2% 2% 2% ;
+    }
+        
+    ul > ul > section > p{
+            font-family: 'merriweather', serif;
+            display: inline-block;
+            margin-left: -40px;          
+            padding: 2% 2% 2% 2% ;
+    }
+    }
+@media only screen and (min-width:640px) and (max-width:1024px){
+      
+    html{
+        background-image: url(https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/second_fleet.png);
+        background-size: cover;
+    }
+    
+    body{    
+        background-color: transparent;
+        width: 640px;
+        height: 960px;
+    }
+    
+    header{
+        width: 450px;
+        height: 100px;
+        font-size: 40px;
+        margin-left: 95px;
+    } 
+
+    header > h1{ 
+        font-size: 50px;
+        width: 600px;
+        margin-left: -70px;
+    }
+        
+    nav{
+        margin-left:185px ;
+        margin-bottom: 10px;
+        width: 250px;
+        height: 20px; 
+        border-radius: 10px;       
+    }
+        
+    a { 
+        padding: 0 3.4px 0 3.4px;
+        font-size: 18px;
+        color: black;
+    }
+        
+    p {
+        font-size: 20px;
+        color: whitesmoke;
+    }
+
+    div{
+    
+        width: 600px;
+        height: 640px;
+        border-radius: 20px;
+        
+    }
+    
+    select{
+        width: 300px;
+        height: 25px;
+        margin-left: 150px;
+        margin-top: 20px;
+        border-radius: 5px;
+        font-size: 20px;
+    }
+    
+    div > section{
+        width: 550px;
+        height: 550px;
+        margin-left: 25px;
+        border-radius: 10px;
+        outline: 5px dashed #5f5b6b;     
+    }  
+    
+    section > img{    
+        width: 190px;
+        height: 190px;
+        margin-top: 20px;
+        margin-left: 180px;
+    }
+    
+    ul > p{    
+        font-size: 20px;
+        margin-left: 110px;
+        margin-bottom: 15px;
+        width: 250px;
+        height: 28px;
+        border-radius: 10px;
+}
+    
+    div > section > ul > ul{
+        width: 485px;
+        height: 250px;
+        margin-left: -27px;
+        border-radius: 8px;
+        font-size: 20px;
+        background-color: rgb(rgb(231, 173, 64));
+    }
+
+    ul > ul > p{    
+        width: 510px;
+        font-family: 'merriweather', serif;
+        display: inline-block;
+        margin-top: 5px;
+        margin-left: -35px;
+        text-align: justify;
+        background-color: transparent;
+        outline: none;
+
+    }
+    
+    ul > ul > section > p{
+        font-family: 'merriweather', serif;
+        display: inline-block;
+        margin-left: -0px;  
+        margin-top: 10px;
+    }
+    
+}
+@media only screen and (min-width:1024px) and (max-width:1280px){
+      
+    html{
+        background-image: url(https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/third_fleet.png);
+        background-size: cover;
+    }
+    
+    body{    
+        background-color: transparent;
+        width: 1024px;
+        height: 768px;
+    }
+    
+    header{        
+        width: 500px;
+        height: 100px;
+        font-size: 35px;
+        margin-left: 262px;      
+    }   
+
+    header > h1{ 
+        width: 700px;
+        font-size: 60px;
+        margin-left: -120px;
+    }
+        
+    nav{
+        margin-top: -20px;
+        width: 460px;
+        height: 25px;
+        margin-left:265px ;
+        border-color: gray;
+        border-radius: 10px; 
+    }
+        
+    a { 
+        color: black;
+        padding: 0 34.3px 0 34.3px;
+        font-size: 20px;
+    }
+
+    p {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: whitesmoke;
+        font-size: 20px;
+    }
+    
+    div{    
+        width: 1000px;
+        height: 550px;
+        font-size: 20px;
+        border-radius: 20px;        
+    }
+    
+    select{
+        width: 300px;
+        height: 25px;
+        margin-left: 335px;
+        margin-top: 25px;
+        margin-bottom: 10px;
+        font-size: 20px;
+    }
+    
+    div > section{
+        width: 900px;
+        height: 450px;
+        margin-left: 50px;
+        outline: 5px dashed #5f5b6b;     
+    }  
+    
+    section > img{    
+        width: 180px;
+        height: 180px;
+        margin-left: 100px;
+        margin-top: 30px;
+    }
+    
+    ul > p{    
+        border-radius: 7px;
+        margin-top: 60px;        
+    }
+    
+    div > section > ul > ul{
+        width: 700px;
+        height: 200px;
+        margin-top: 100px;
+        margin-left: -260px;
+        border-radius: 0px;
+        background-color: rgb(rgb(207, 24, 192));
+    }
+
+    ul > ul > p{
+        width: 720px;
+        text-align: justify;
+        background-color: transparent;
+        outline: none;    
+        display: inline-block;
+        margin-left: -35px;
+        margin-top: 10px;
+    }
+    
+    ul > ul > section > p{
+        display: inline-block;
+        margin-top: 20px;
+        margin-left: -283px;  
+    }
+}
+@media only screen and (min-width:1280px) and (max-width:1920px){
+
+    html{
+        background-image: url(https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/fourth_fleet.png);
+        background-size: cover;
+    }
+
+    body{    
+        background-color: transparent;        
+        width: 1280px;
+        height: 800px;
+    }
+    
+    header{
+        width: 600px;
+        font-size: 40px;
+        margin-left: 340px;
+    }
+
+    header > h1{ 
+        width: 700px;
+        font-size: 60px;
+        margin-left: -0px;
+    }
+
+    nav{
+        width: 700px;
+        margin-left:290px ;
+        border-color: gray;
+        border-radius: 10px;        
+    }
+        
+    a { 
+        padding: 0 64px 0 64px;
+        font-size: 25px;
+    }
+        
+    p {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    div{
+        width: 1200px;
+        height: 580px;
+        font-size: 30px;
+        border-radius: 25px;
+    }
+    
+    select{
+        font-size: 25px;
+        width: 350px;
+        height: 35px;
+        margin-top: 20px;
+        margin-left: 425px;
+        margin-bottom: 10px;
+        border-radius: 10px;
+    }
+    
+    div > section{
+        width: 1150px;
+        height: 470px;
+        margin-left: 25px;
+        border-radius: 17px;    
+    }  
+    
+    section > img{    
+        width: 300px;
+        height: 300px;
+        margin-top: 90px;
+        margin-left: 70px;
+    }
+
+    ul > p{    
+        font-size: 35px;
+        margin-left: 150px;
+        width: 350px;
+        height: 50px;
+        border-radius: 15px;
+        margin-top: 50px;
+    }
+    
+    div > section > ul > ul{
+        width: 650px;
+        height: 250px;
+        margin-left: 0px;
+        border-radius: 10px;        
+        margin-top: 10px;
+        background-color: rgb(rgb(26, 122, 26));
+    }
+   
+    ul > ul > p{
+        text-align: justify;
+        background-color: transparent;
+        outline: none;    
+        width: 670px;
+        margin: 0px;
+        padding: 0px;
+        font-size: 25px;
+        margin-left: -30px;
+        margin-top: 10px;
+    }
+    
+    ul > ul > section > p{
+        font-family: 'merriweather', serif;
+        display: inline-block;
+        margin-left: -270px;  
+        margin-top: -10px;
+    }
+
+}
+@media only screen and (min-width:1920px){
+      
+    html{
+        background-image: url(https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/fifth_fleet.png);
+        background-size: cover;
+        width: 100%;
+        height: 150%;
+    }
+    
+    body{
+        background-color: transparent;
+        background-size: cover;
+        width: 1920px;
+        height: 1200px;
+    }
+    
+    header{
+        width: 840px;
+        height: 150px;
+        font-size: 50px;
+        margin-left: 540px;
+    } 
+
+    header > h1{ 
+        font-size: 100px;
+        width: 1200px;
+        margin-left: -150px;
+    }
+        
+    nav{
+        width: 750px;
+        margin-top: 10px;
+        margin-left:615px ;
+        border-color: gray;
+        border-radius: 10px;
+        
+    }
+        
+    a { 
+        color: black;
+        text-align: center;
+        font-size: 30px;
+        padding: 0 62px 0 62px;
+    }
+        
+    p {
+        margin-top: 20px;
+        text-align: center;
+        color: whitesmoke;
+        font-size: 30px;
+    }
+    
+    div{
+        width: 1700px;
+        height: 870px;
+        font-size: 40px;
+        border-radius: 30px;
+    }
+    
+    select{
+        width: 450px;
+        height: 50px;
+        margin-left: 700px;
+        border-radius: 20px;
+        font-size: 30px;
+    }
+    
+    div > section{
+        width: 1600px;
+        height: 730px;
+        margin-top: 30px;
+        margin-left: 50px;
+        border-radius: 30px;   
+    
+    }  
+    
+    section > img{
+    
+        width: 450px;
+        height: 450px;
+        margin-top: 120px;
+        margin-left: 100px;
+        border-radius: 10px;
+        
+    }
+    
+    ul > p{
+        font-size: 55px;
+        margin-top: 50px;
+        margin-left: 190px;
+        width: 550px;
+        height: 70px;
+        border-radius: 18px;
+    }
+    
+    div > section > ul > ul{
+        width: 900px;
+        height: 400px;
+        margin-top: 80px;
+        margin-left: 10px;
+        border-radius: 10px;
+        background-color: rgb(rgb(251, 255, 0));
+    }
+
+    ul > ul > p{
+        width: 900px;
+        text-align: justify;
+        background-color: transparent;
+        outline: none;
+        font-family: 'merriweather', serif;
+        display: inline-block;
+        margin-left: -30px;
+        margin-top: 10px;
+        font-size: 35px;
+    }
+    
+    ul > ul > section > p{
+        font-family: 'merriweather', serif;
+        display: inline-block;
+        margin-left: -365px;  
+        margin-top: 50px;
+    }
+    
+  }
