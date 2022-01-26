@@ -1,4 +1,4 @@
-const url ="https://lemarudev.github.io/mi-proyecto-web/proyecto_final/proyecto.json";
+const url ="https://lemarudev.github.io/mi-proyecto-web/proyecto_final/proyecto.json"
 function buscar(){
     var arma=document.getElementById("buscador").value;
     console.log("ID"+arma);
@@ -21,16 +21,16 @@ function buscar(){
 
         var desc=document.getElementById("descripción");
         desc.innerHTML="<b> </b>"+res[0].descripción;
-    
-    
+
+
         var rol=document.getElementById("rol");
         rol.innerHTML="<b>rol: </b>"+res[0].rol;
-    
-    
+
+
         var dificultad=document.getElementById("dificultad");
         dificultad.innerHTML="<b>dificultad: </b>"+res[0].dificultad;
 
-    
+
         var foto=document.getElementById("icon");
         foto.src=res[0].icon;
 
@@ -43,7 +43,7 @@ function buscar(){
     .catch(function(error){
         console.log(error);           
     });
-    
+
     function adjuntar(padre,hijo){
         return padre.appendChild(hijo);
     }
