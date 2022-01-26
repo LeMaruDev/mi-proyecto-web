@@ -1,4 +1,4 @@
-const url =""
+const url ="https://lemarudev.github.io/mi-proyecto-web/proyecto_final/proyecto.json";
 function buscar(){
     var arma=document.getElementById("buscador").value;
     console.log("ID"+arma);
