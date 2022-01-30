@@ -54,7 +54,7 @@
         {
             "id":6,
             "nombre":"Lanza",
-            "descripción":"Lanza: Piense en la Lanza como la Espada y  scudo, pero menos práctico y más resistente. Es adecuado para los jugadores a los que les encanta esconderse detrás de sus escudos y pinchar al monstruo para que se someta en lugar de depender de esquivar para sobrevivir. En ese sentido, los usuarios de Lance son los tanques de Monster Hunter World, ya que pueden sobrevivir a algunos de los ataques más duros.",
+            "descripción":"Lanza: Piense en la Lanza como la Espada y  Escudo, pero menos práctico y más resistente. Es adecuado para los jugadores a los que les encanta esconderse detrás de sus escudos y pinchar al monstruo para que se someta en lugar de depender de esquivar para sobrevivir. En ese sentido, los usuarios de Lanza son los tanques de Monster Hunter World, ya que pueden sobrevivir a algunos de los ataques más duros.",
             "rol":"tanque",
             "dificultad":"media",
             "icon":"https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/Lance_icon.jpg"
