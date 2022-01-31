@@ -1,0 +1,62 @@
+header{
+    text-align: center;
+    background-color: darkslategrey;
+    color: whitesmoke;
+}
+header > h1, h6{
+    margin: auto;
+}
+header > p{
+    font-size: 20px;
+    text-align: center;
+}
+hr{
+    background-color: darkolivegreen;
+}
+nav{
+    font-size: 20px;
+    text-align: center;
+    height: 60px;
+}
+nav > a{
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 30px;
+    color: black;
+    font-size: 38px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+div > section > ul{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 200px;
+}
+div > section > ul > a{
+    margin-left: 50px;
+}
+nav > a:hover{
+    background-color: darkorange;
+    color: whitesmoke;
+}
+#pokedex{
+    background-image: url();
+    height: 100px;
+    width: 100px;
+}
+#sistema{
+    background-image: url();
+    height: 100px;
+    width: 100px;
+}
+#html{
+    background-image: url();
+    height: 100px;
+    width: 100px;
+}
+#proyecto{
+    background-image: url();
+    height: 100px;
+    width: 100px;
+}
