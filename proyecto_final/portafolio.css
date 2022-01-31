@@ -30,11 +30,10 @@ nav > a{
 }
 div > section > ul{
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
     margin-top: 200px;
 }
 div > section > ul > a{
-    margin-left: 50px;
     color: whitesmoke;
 }
 nav > a:hover{
@@ -54,7 +53,7 @@ nav > a:hover{
     background-size: 270px 160px;
     background-repeat: no-repeat;
     background-position: center;
-    padding: 40px 40px 40px 40px;
+    padding: 40px 0px 40px 0px;
 }
 #html{
     background-image: url(https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/html_icon.jpg);
