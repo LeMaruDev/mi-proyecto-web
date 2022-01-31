@@ -35,28 +35,39 @@ div > section > ul{
 }
 div > section > ul > a{
     margin-left: 50px;
+    color: whitesmoke;
 }
 nav > a:hover{
     background-color: darkorange;
     color: whitesmoke;
 }
 #pokedex{
-    background-image: url();
-    height: 100px;
-    width: 100px;
+    background-image: url(https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/pokedex_icon.jpg);
+    background-size: 270px 160px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 40px 40px 40px 40px;
+    color: gold;
 }
 #sistema{
-    background-image: url();
-    height: 100px;
-    width: 100px;
+    background-image: url(https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/espacio_icon.jpg);
+    background-size: 270px 160px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 40px 40px 40px 40px;
 }
 #html{
-    background-image: url();
-    height: 100px;
-    width: 100px;
+    background-image: url(https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/html_icon.jpg);
+    background-size: 270px 160px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 40px 40px 40px 40px;
 }
 #proyecto{
-    background-image: url();
-    height: 100px;
-    width: 100px;
+    background-image: url(https://lemarudev.github.io/mi-proyecto-web/proyecto_final/imagenes/proyect_icon.png);
+    background-size: 280px 160px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 40px 40px 40px 40px;
+    color: black;
 }
